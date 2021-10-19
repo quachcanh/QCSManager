@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCSManager", "QCSManager\QCSManager.csproj", "{90164F31-8A7A-4126-AE96-87A328205CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90164F31-8A7A-4126-AE96-87A328205CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90164F31-8A7A-4126-AE96-87A328205CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90164F31-8A7A-4126-AE96-87A328205CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90164F31-8A7A-4126-AE96-87A328205CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ED22CC7-D15B-4811-A1F7-26DD3DCFD6F3}
+	EndGlobalSection
+EndGlobal
